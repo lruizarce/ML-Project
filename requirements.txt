@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+# -e . triggers the setup.py file in the current directory
+-e .
